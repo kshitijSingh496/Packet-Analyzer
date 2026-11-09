@@ -1,0 +1,5 @@
+# One rule per line
+# IP 10.0.0.5
+# DOMAIN youtube.com
+# APP FACEBOOK
+DOMAIN example-blocked.test
